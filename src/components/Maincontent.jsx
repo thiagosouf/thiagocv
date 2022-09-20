@@ -1,7 +1,8 @@
-import '../styles/components/maincontent.sass'
 import ProjetosContainer from './ProjetosContainer'
 import SobreContainer from './SobreContainer'
 import TecnologiasContainer from './TecnologiasContainer'
+
+import '../styles/components/maincontent.sass'
 
 const Maincontent = () => {
     return (
