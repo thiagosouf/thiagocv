@@ -1,23 +1,20 @@
 const SobreContainer = () => {
     return (
         <section className="about-container">
-            <h2>Sobre</h2>
+            <h2>Sobre mim</h2>
             <p>
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum."
+                Olá, eu sou o <b>Thiago Souza Ferreira</b>
             </p>
             <p>
-                orem Ipsum is simply dummy text of the printing and typesetting industry.
-                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                when an unknown printer took a galley of type and scrambled it to make a type specimen
-                book. It has survived not only five centuries, but also the leap into electronic
-                typesetting, remaining essentially unchanged. It was popularised in the 1960s with
-                the release of Letraset sheets containing Lorem Ipsum passages, and more recently with
-                desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                Sou fundador e fui gestor financeiro da Paixão Vegan, industria de alimentos veganos.
+
+                Comecei a estudar tecnologia durante a pandemia e tem sido um processo muito prazeroso.
+
+                Possuo conhecimento em HTML, CSS, Javascript, Typescript, Nodejs, ReactJs, MongoDB e Postgres
+
+                Atualmente estou aprendendo sobre Docker e AWS
+
+                Gosto de entender como as coisas funcionam e pensar em estratégias para solucionar problemas e otimizar processos
             </p>
         </section>
     )
